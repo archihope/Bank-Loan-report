@@ -57,3 +57,6 @@ This dashboard serves as a vital decision-making tool for financial institutions
 track recovery performance, and mitigate credit risk. By distinguishing between good and bad loans, 
 analysing funding vs. receivables, and identifying key risk indicators like DTI and interest rates, it 
 enhances the bank's ability to optimize its lending portfolio and credit policies. 
+
+![bank report](https://github.com/user-attachments/assets/d2f4d34a-551e-47ab-9611-e7d6b291054a)
+
